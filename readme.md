@@ -23,3 +23,5 @@ to install the packages needed to run the notebooks.
 4. Start up jupyter and select stats-workshop as kernel.
 
 Note that instead of doing step 3-4, you can also execute `pipenv run jupyter lab` from the workshop folder.
+
+5. Open the "test_setupipynb" notebook and run the two cells. If they run without issues, your environment works correctly.
