@@ -1,3 +1,7 @@
+# State of notebooks
+
+There are two branches. `main` contains the notebooks as they were before the w>
+
 # Installation
 
 You can follow along just looking at the screen. However, if you want to run the code yourself, you need to first set up the envrionment. These installation steps are for Linux. I don't have much experience with Windows/Mac systems, but the setup is very straighforward and Google should help you out.
